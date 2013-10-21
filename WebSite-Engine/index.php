@@ -1,1 +1,5 @@
-Clear file
+<?php
+
+  echo "Hello, world";
+
+?>
